@@ -1,7 +1,6 @@
 <div align="center">
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Bienvenida GIF" />
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" style="background-color:#00000000;" width="250" />
 
 # 💫 About Me:
 🔭 I’m currently working on web development<br>
